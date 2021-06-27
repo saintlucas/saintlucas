@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Lukasz
+- 👀 I’m interested in programming in Java but dont hesitate learning php, python and front-end and technologies.
+- 🌱 I’m currently learning Springboot, JavaFX and Angular.
+- 💞️ I’m looking to collaborate on opensource projects and would like to start interim or trainee position to get first experience. 
+- 📫 How to reach me ?My mails - lukasz.nowakowski@onet.pl, lnowakowski.ln@gmail.com. and https://www.linkedin.com/in/łukasz-nowakowski-675673103/
