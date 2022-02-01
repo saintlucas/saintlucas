@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Lukasz
-- 👀 I’m interested in programming in Java,  learn C#, .NET and front-end technologies.
-- 🌱 I’m currently learning Springboot, JavaFX and Angular, improving my Java.
+- 👀 I’m interested in programming in Java, C#, .NET, Angular, TypeScript.
+- 🌱 I’m currently learning .Net, ASP.NET and Angular, improving C#.
 - 📫 How to reach me ? My emails - lukasz.nowakowski@onet.pl, lnowakowski.ln@gmail.com. and https://www.linkedin.com/in/łukasz-nowakowski-675673103/
